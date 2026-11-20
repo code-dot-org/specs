@@ -1,4 +1,4 @@
-# Specs for Code.org software
+# Specs for CodeAI (formerly known as Code.org) software
 
 This repo holds specs. It holds no application code; the code a spec
 describes lives in another repo, named by the spec. Read `README.md` for how
